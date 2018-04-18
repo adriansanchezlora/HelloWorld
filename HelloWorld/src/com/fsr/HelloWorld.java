@@ -3,7 +3,7 @@ package com.fsr;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//Añadido un comentario
 		System.out.println("Hello World");
 	}
 
